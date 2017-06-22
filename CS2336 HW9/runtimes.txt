@@ -1,0 +1,17 @@
+								8,000,000		10,000,000		12,000,000		14,000,000		16,000,000
+Algorithm 1 (No Ouput)			10.183 sec		14.073 sec		18.135 sec		22.560 sec		27.241 sec
+Algorithm 1 (Output)			14.016 sec		18.958 sec		24.169 sec		29.651 sec		25.663 sec
+
+Algorithm 2 (No Ouput)			1.237 sec		1.546 sec		2.090 sec		2.568 sec		3.066 sec
+Algorithm 2 (Output)			4.196 sec		5.302 sec		6.756 sec		7.856 sec		8.741 sec
+
+Algorithm 3 (No Ouput)			0.112 sec		0.144 sec		0.177 sec		0.205 sec		0.232 sec
+Algorithm 3 (Output)			3.860 sec		4.694 sec		5.726 sec		6.670 sec		7.505 sec
+
+
+*** NOTES ***
+1) As n increases, execution time increases. When n increases, each algorithm needs to check more cases, which is why it takes more time.
+2) Algorithm 2 is faster than Algorithm 1. This is because Algorithm 2 only checks prime divisors up to n^(1/2). Algorithm 1 checks all possible divisors up to n^(1/2), which takes more time.
+3) Algorithm 3 is faster than Algorithm 2. Algorithm 3 is the fastest. This is because Algorithm 3 doesn't use brute force to check all possible divisors. Instead Algorithm 3
+   uses a sieve to set all the multiples of a number to not prime.
+4) No Ouput is faster than Ouput obviously because it takes time for the computer to print each prime number to the console.

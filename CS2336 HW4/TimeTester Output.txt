@@ -1,0 +1,14 @@
+Original MilTime: 2 hrs, 0 mins, 3 secs
+
+Adjusted MilTime: 13 hrs, 0 mins, 45 secs
+Adjusted MilTime in standard format: 1 hrs, 0 mins, 45 secs
+Adjusted MilTime: 14 hrs, 0 mins, 45 secs
+Adjusted MilTime in standard format: 2 hrs, 0 mins, 45 secs
+
+Original Starting time: 1 hrs, 23 mins, 4 secs
+Original Ending time: 12 hrs, 34 mins, 5 secs
+Original Time difference: 11
+
+Adjusted Starting time: 1 hrs, 23 mins, 4 secs
+Adjusted Ending time: 23 hrs, 45 mins, 6 secs
+Adjusted Time difference: 22
