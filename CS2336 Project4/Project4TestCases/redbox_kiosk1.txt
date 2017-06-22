@@ -1,0 +1,10 @@
+Title			    Available	Rented
+Collateral Beauty  		2 	2
+Doctor Strange  		1 	2
+Hacksaw Ridge  			0	1
+Jackie  			2 	0
+Moana  				3 	3
+Monster Trucks  		2 	0
+Office Christmas Party  	2 	0
+Rogue One: A Star Wars Story  	5 	4
+Trolls  			2	2

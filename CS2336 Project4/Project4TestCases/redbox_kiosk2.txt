@@ -1,0 +1,9 @@
+Title			    Available	Rented
+G.I. Joe The Movie		1	0
+Gremlins			0	2
+Leroy and Stitch		1	0
+Night at the Museum		2	0
+Pink Panther			1	0
+Sixteen Candles			2	0
+The Crow: City of Angels	1	0
+Tombstone			1	0

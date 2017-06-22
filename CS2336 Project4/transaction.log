@@ -1,0 +1,9 @@
+rent "Passengers"
+add "Passengers",2
+return "Doctor Strange"
+return the Beast"
+remove "The Crow",1
+add "Arrival",4
+return "Passengers"
+rem43"Lilo and Stitch",2
+remove "Captain America: Civil War",2

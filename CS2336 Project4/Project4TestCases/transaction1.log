@@ -1,0 +1,11 @@
+add "Rogue One: A Star Wars Story",3
+rent "Doctor Strange"
+return "Moana"
+add "Trolls",2
+rent "Monster Trucks"
+return "Monster Trucks"
+return "Office Christmas Party"
+rent "Rogue One: A Star Wars Story"
+add "Collateral Beauty",1
+remove "Hacksaw Ridge",3
+return "Jackie"
